@@ -1,0 +1,111 @@
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.exe.config
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.exe
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.pdb
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.Properties.Resources.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.exe
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.pdb
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.Form1.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.veritabanıbaglanti.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.kayıt_sayfası.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.şifre_güncelleme.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.tablola_görüntüle.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.yeni_kayıt.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.istatislik.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.kullanıcı_silme.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.limandakalan_alan.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\bin\Debug\stdole.dll
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.RaporGoruntule.resources
+C:\Users\HP\source\repos\liman işletme otomasyonu\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.CopyComplete
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.exe.config
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.exe
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.pdb
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.Form1.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.veritabanıbaglanti.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.istatislik.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.kayıt_sayfası.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.kullanıcı_silme.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.limandakalan_alan.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.Properties.Resources.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.RaporGoruntule.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.tablola_görüntüle.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.yeni_kayıt.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.şifre_güncelleme.resources
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.CopyComplete
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.exe
+C:\Users\HP\Desktop\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.pdb
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.exe.config
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.exe
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\liman işletme otomasyonu.pdb
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.Form1.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.veritabanıbaglanti.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.istatislik.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.kayıt_sayfası.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.kullanıcı_silme.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.limandakalan_alan.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.Properties.Resources.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.RaporGoruntule.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.tablola_görüntüle.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.yeni_kayıt.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman_işletme_otomasyonu.şifre_güncelleme.resources
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.csproj.CopyComplete
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.exe
+C:\Users\HP\Desktop\202503068_Fırat_Işıldak\otomasyon\liman işletme otomasyonu\obj\Debug\liman işletme otomasyonu.pdb
