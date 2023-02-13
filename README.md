@@ -2,7 +2,7 @@
 
 ## Genel Yapı
 
-Bu otomasyonun genel amacı bir limana gelen yerli veya yabanci gemilerin kaydını tutup limandan demir atma zamnaları, taşıdıkları yükleri gibi verileri kullanarak
+Bu otomasyonun genel amacı bir limana gelen yerli veya yabanci gemilerin kaydını tutup limandan demir atma zamanlarını, taşıdıkları yükleri gibi verileri kullanarak
 ortaya bir istatislik koyan  otomasyondur.
 
 ##Kod ve Yapı İnceleme
